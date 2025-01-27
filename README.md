@@ -6,14 +6,15 @@ Exploring the basic concepts of Python. Discover how to use Python both interact
 
 ## Table of contents
 
-1. [Creating Lists](#hello)
-2. [Creating lists with different types](#first)
-3. [lists of lists](#caluclator)
-4. [Subsetting lists](#vartypes)
-5. [Slicing and dicing](#varassign)
-6. [Subsettings lists of lists](#calcvar)
-7. [Replace list elemments](#vartypes)
-8. [Operations With Other Types](#othertypes)
-9. [Other Types](#types)
+1. [Creating Lists](#createlists)
+2. [Creating lists with different types](#createdifflist)
+3. [lists of lists](#list2x)
+4. [Subsetting lists](#sublist)
+5. [Slicing and dicing](#slicedice)
+6. [Subsettings lists of lists](#sublist2x)
+7. [Replace list elemments](#replist)
+8. [Extend a list](#othertypes)
+9. [Delete list elements](#types)
+10. [Inner workings of lists](#types)
 
 ## Hello <a name="hello">
