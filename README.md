@@ -1,9 +1,6 @@
 # Python-Lists
 Understand how to store, access, and manipulate data in lists: this is the first step towards effectively working with large amounts of data.
 
-# Python-Basics
-Exploring the basic concepts of Python. Discover how to use Python both interactively and through scripting. Create your first variables and familiarize yourself with Python's basic data types.
-
 ## Table of contents
 
 1. [Creating Lists](#createlists)
